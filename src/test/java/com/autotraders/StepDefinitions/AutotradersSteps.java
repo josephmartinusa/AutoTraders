@@ -17,7 +17,7 @@ public class AutotradersSteps {
 	AdvanceSearchPage advanceSearchPage = new AdvanceSearchPage();
 
 
-
+//..
 
 	@Given("User is in landing page")
 	public void user_is_in_landing_page() {
